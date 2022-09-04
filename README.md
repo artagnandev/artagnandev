@@ -3,7 +3,11 @@
 <p align="left">
   <strong>Olá, eu sou o David! 👋</strong>
   <br>
-  Sou um desenvolvedor web focado em front-end. Em poucas palavras, crio sites e aplicações que ajudam pessoas e empresas conseguirem enfrentar os desafios de negócios e atender às suas necessidades. As principais linguagens na minha stack de tecnologias são: JavaScript, React, Next, Wordpress, e claro, HTML/CSS/SCSS. Sou um eterno aprendiz (atualmente cursando o <a href="https://lp.rocketseat.com.br/ignite">Ignite</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>). 
+  Sou um desenvolvedor web focado em front-end. Em poucas palavras, crio sites e aplicações que ajudam pessoas e empresas conseguirem enfrentar os desafios de negócios e atender às suas necessidades.
+  <br>
+  As principais linguagens na minha stack de tecnologias são: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, <code>Wordpress</code>, e claro, <code>HTML/CSS/SCSS</code>.
+  <br>
+  Sou um eterno aprendiz (atualmente cursando o <a href="https://lp.rocketseat.com.br/ignite">Ignite</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>). 
 </p>
 
 <br>
