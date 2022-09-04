@@ -14,7 +14,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artagnandev&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artagnandev&theme=jolly&show_icons=true)
 
 <br>
 
