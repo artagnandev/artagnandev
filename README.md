@@ -2,6 +2,7 @@
 
 <p align="left">
   <strong>Olá! 👋</strong>
+  <br>
   Eu sou um entusiasta das tecnologias web. Apaixonado pelo desenvolvimento front-end e por dar vida à idéias e negócios.
 </p>
 
