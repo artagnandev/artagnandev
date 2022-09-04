@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
 
 <p align="left">
-  <strong>Olá! 👋</strong>
+  <strong>Olá, eu sou o David! 👋</strong>
   <br>
-  Eu sou um entusiasta das tecnologias web. Apaixonado pelo desenvolvimento front-end e por dar vida à idéias e negócios.
+  Sou um desenvolvedor web focado em front-end. Em poucas palavras, crio sites e aplicações que ajudam pessoas e empresas conseguirem enfrentar os desafios de negócios e atender às suas necessidades. As principais linguagens na minha stack de tecnologias são: JavaScript, React, Next, Wordpress, e claro, HTML/CSS/SCSS. Sou um eterno aprendiz (atualmente cursando o <a href="https://lp.rocketseat.com.br/ignite">Ignite</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>). 
 </p>
 
 <br>
