@@ -3,7 +3,9 @@
 <p align="left">
   <strong>Olá, eu sou o David! 👋</strong>
   <br><br>
-  Sou um desenvolvedor web focado em front-end. Em poucas palavras, crio sites e aplicações que ajudam pessoas e empresas conseguirem enfrentar os desafios de negócios e atender às suas necessidades.
+  Sou um desenvolvedor web focado em front-end. 
+  <br>
+  Em poucas palavras, crio sites e aplicações que ajudam pessoas e empresas a conseguirem enfrentar seus desafios de negócios e terem resultados em suas iniciativas.
   <br><br>
   As principais linguagens na minha stack de tecnologias são: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, e claro, <code>HTML/CSS/SCSS</code> - Sem contar as diversas ferramentas que uso para necessidades de projetos diferentes (veja meus repositórios).
   <br><br>
