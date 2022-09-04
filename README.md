@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="320px" max-width="320px" width="320px" align="right" alt="computer">
 
 <p align="left">
   <strong>Olá, eu sou o David! 👋</strong>
-  <br>
+  <br><br>
   Sou um desenvolvedor web focado em front-end. Em poucas palavras, crio sites e aplicações que ajudam pessoas e empresas conseguirem enfrentar os desafios de negócios e atender às suas necessidades.
-  <br>
+  <br><br>
   As principais linguagens na minha stack de tecnologias são: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, e claro, <code>HTML/CSS/SCSS</code> - Sem contar as diversas ferramentas que uso para necessidades de projetos diferentes (veja meus repositórios).
-  <br>
+  <br><br>
   Sou um eterno aprendiz (atualmente cursando o <a href="https://lp.rocketseat.com.br/ignite">Ignite</a> da <a href="https://www.rocketseat.com.br/">Rocketseat</a>). 
 </p>
 
