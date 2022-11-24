@@ -18,7 +18,7 @@ Sou um eterno aprendiz e entusiasta das melhores tecnologias para web.
 <br>
 
 <p align="left">
-  💌 Entre em contato comigo:
+  Entre em contato:
 </p>
 
 <p align="left">
