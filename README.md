@@ -3,17 +3,9 @@
 <p align="left">
   <strong>Olá, eu sou o David! 👋</strong>
   <br><br>
-  Ajudo pessoas e empresas a conseguirem enfrentar os desafios de negócios e atender às suas necessidades por meio de aplicações web, como sites ou sistemas integrados.
-  <br>
-  Trabalho principalmente (não exclusivamente) usando: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, <code>Wordpress</code>, <code>HTML</code> e <code>CSS/SCSS</code>.
-Atualmente focado em front-end.
-<br>
-Sou um eterno aprendiz e entusiasta das melhores tecnologias para web.
+ Construo soluções para pessoas e empresas em forma de aplicações web, como sites e sistemas.
+Trabalho principalmente (não exclusivamente) usando: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, <code>Wordpress</code>, <code>HTML</code> e <code>CSS/SCSS</code>. Já desenvolvi desde simples landing-pages e sites institucionais a sistemas complexos de gestão empresarial, sempre prezando pela performance, escalabilidade e melhores práticas de desenvolvimento. Atualmente estou focado em desenvolvimento front-end (mas ocasionalmente flerto com backend em Node JS).
 </p>
-
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artagnandev&theme=jolly&show_icons=true)
 
 <br>
 
