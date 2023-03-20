@@ -4,7 +4,7 @@
   <strong>Olá, eu sou o David! 👋</strong>
   <br><br>
  Construo soluções para pessoas e empresas em forma de aplicações web, como sites e sistemas.
-Trabalho principalmente (não exclusivamente) usando: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, <code>Wordpress</code>, <code>HTML</code> e <code>CSS/SCSS</code>. Já desenvolvi desde simples landing-pages e sites institucionais a sistemas complexos de gestão empresarial, sempre prezando pela performance, escalabilidade e melhores práticas de desenvolvimento. Atualmente estou focado em desenvolvimento front-end (mas ocasionalmente flerto com backend em Node JS).
+Trabalho principalmente usando: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, <code>Wordpress</code>, <code>HTML</code> e <code>CSS/SCSS</code>. Já desenvolvi: Landing-pages, sites institucionais e sistemas de gestão empresarial, sempre prezando pela performance, escalabilidade e melhores práticas de desenvolvimento. Atualmente estou focado em desenvolvimento front-end (ocasionalmente praticando backend em Node JS).
 </p>
 
 <br>
