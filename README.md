@@ -7,11 +7,12 @@ Some of the technologies I work with:
 - **JavaScript**
 - **React**
 - **Next.js**
+- **React Native**
 - **WordPress**
 - **HTML/CSS/SCSS**
-- **Node.js**
+- **Node**
 
-Throughout my career, I have participated in projects involving the development of **landing pages**, **institutional websites** and **business management systems**, always prioritizing:
+Throughout my career, I have participated in projects involving the development of **institutional websites** and **business management systems** and *mobile applications*, always prioritizing:
 
 - **Optimized performance**
 - **Best development practices**
