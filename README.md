@@ -1,10 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="320px" max-width="320px" width="320px" align="right" alt="computer">
 
 <p align="left">
-  <strong>Olá, eu sou o David! 👋</strong>
-  <br><br>
- Construo soluções para pessoas e empresas em forma de aplicações web, como sites e sistemas.
-Trabalho principalmente usando: <code>JavaScript</code>, <code>React</code>, <code>Next</code>, <code>Wordpress</code>, <code>HTML</code> e <code>CSS/SCSS</code>. Já desenvolvi: Landing-pages, sites institucionais e sistemas de gestão empresarial, sempre prezando pela performance, escalabilidade e melhores práticas de desenvolvimento. Atualmente estou focado em desenvolvimento front-end (ocasionalmente praticando backend em Node JS).
+### Olá! 👋
+
+Eu sou um desenvolvedor web que constrói soluções para pessoas e empresas, transformando ideias em aplicações digitais, como sites e sistemas. Trabalho principalmente com:
+
+- **JavaScript**
+- **React**
+- **Next**
+- **WordPress**
+- **HTML/CSS/SCSS**
+- **Node**
+
+Tenho experiência no desenvolvimento de **landing-pages**, **sites institucionais** e **sistemas de gestão empresarial**, sempre com foco em:
+
+- **Performance**
+- **Escalabilidade**
+- **Melhores práticas de desenvolvimento**
 </p>
 
 <br>
