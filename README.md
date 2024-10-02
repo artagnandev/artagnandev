@@ -1,28 +1,27 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="320px" max-width="320px" width="320px" align="right" alt="computer">
 
 <p align="left">
-### Olá! 👋
-
-Eu sou um desenvolvedor web que constrói soluções para pessoas e empresas, transformando ideias em aplicações digitais, como sites e sistemas. Trabalho principalmente com:
+Programmer with +4 years of experience in front-end development, creating efficient solutions for companies and individuals through web and mobile applications.
+Some of the technologies I work with:
 
 - **JavaScript**
 - **React**
-- **Next**
+- **Next.js**
 - **WordPress**
 - **HTML/CSS/SCSS**
-- **Node**
+- **Node.js**
 
-Tenho experiência no desenvolvimento de **landing-pages**, **sites institucionais** e **sistemas de gestão empresarial**, sempre com foco em:
+Throughout my career, I have participated in projects involving the development of **landing pages**, **institutional websites** and **business management systems**, always prioritizing:
 
-- **Performance**
-- **Escalabilidade**
-- **Melhores práticas de desenvolvimento**
+- **Optimized performance**
+- **Best development practices**
+- **Scalability**
 </p>
 
 <br>
 
 <p align="left">
-  Entre em contato:
+  Contact me:
 </p>
 
 <p align="left">
