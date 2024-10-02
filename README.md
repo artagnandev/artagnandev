@@ -12,7 +12,7 @@ Some of the technologies I work with:
 - **HTML/CSS/SCSS**
 - **Node**
 
-Throughout my career, I have participated in projects involving the development of **institutional websites** and **business management systems** and *mobile applications*, always prioritizing:
+Throughout my career, I have participated in projects involving the development of **institutional websites** and **business management systems** and **mobile applications**, always prioritizing:
 
 - **Optimized performance**
 - **Best development practices**
