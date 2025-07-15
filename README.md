@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="320px" max-width="320px" width="320px" align="right" alt="computer">
 
 <p align="left">
-Programmer with +4 years of experience in front-end development, creating efficient solutions for companies and individuals through web and mobile applications.
+Programmer with +5 years of experience in front-end development, creating efficient solutions for companies and individuals through web and mobile applications.
 Some of the technologies I work with:
 
 - **JavaScript**
