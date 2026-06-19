@@ -4,12 +4,10 @@
 Programmer with +5 years of experience in front-end development, creating efficient solutions for companies and individuals through web and mobile applications.
 Some of the technologies I work with:
 
-- **JavaScript**
-- **React**
+- **JavaScript / Typescript**
+- **React JS**
 - **Next.js**
 - **React Native**
-- **WordPress**
-- **HTML/CSS/SCSS**
 - **Node**
 
 Throughout my career, I have participated in projects involving the development of **institutional websites** and **business management systems** and **mobile applications**, always prioritizing:
